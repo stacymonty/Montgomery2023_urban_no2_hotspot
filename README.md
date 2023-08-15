@@ -1,6 +1,6 @@
 # Montgomery2023_urban_no2_hotspot
 
-Repository for "Intraurban NO2 Hotspot Detection across Multiple Air Quality Products"
+Repository for "Intraurban NO2 Hotspot Detection across Multiple Air Quality Products" (in review)
 
 Includes:
 
